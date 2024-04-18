@@ -3,3 +3,4 @@ fbprophet
 yfinance
 plotly
 numpy
+prophet
