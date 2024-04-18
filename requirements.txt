@@ -2,3 +2,4 @@ streamlit
 fbprophet
 yfinance
 plotly
+numpy
